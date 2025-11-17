@@ -1,0 +1,111 @@
+- name: "10% Noise"
+  totalStars: 3000
+  numberClusters: 10
+  clusterSizeMin: 250
+  clusterSizeMax: 350
+  noise: true
+  noisePercentage: 0.1
+
+- name: "20% Noise"
+  totalStars: 3000
+  numberClusters: 10
+  clusterSizeMin: 250
+  clusterSizeMax: 350
+  noise: true
+  noisePercentage: 0.2
+
+- name: "30% Noise"
+  totalStars: 3000
+  numberClusters: 10
+  clusterSizeMin: 250
+  clusterSizeMax: 350
+  noise: true
+  noisePercentage: 0.3
+
+- name: "40% Noise"
+  totalStars: 3000
+  numberClusters: 10
+  clusterSizeMin: 250
+  clusterSizeMax: 350
+  noise: true
+  noisePercentage: 0.4
+
+- name: "50% Noise"
+  totalStars: 3000
+  numberClusters: 10
+  clusterSizeMin: 250
+  clusterSizeMax: 350
+  noise: true
+  noisePercentage: 0.5
+
+- name: "60% Noise"
+  totalStars: 3000
+  numberClusters: 10
+  clusterSizeMin: 250
+  clusterSizeMax: 350
+  noise: true
+  noisePercentage: 0.6
+
+- name: "70% Noise"
+  totalStars: 3000
+  numberClusters: 10
+  clusterSizeMin: 250
+  clusterSizeMax: 350
+  noise: true
+  noisePercentage: 0.7
+
+- name: "80% Noise"
+  totalStars: 3000
+  numberClusters: 10
+  clusterSizeMin: 250
+  clusterSizeMax: 350
+  noise: true
+  noisePercentage: 0.8
+
+- name: "90% Noise"
+  totalStars: 3000
+  numberClusters: 10
+  clusterSizeMin: 250
+  clusterSizeMax: 350
+  noise: true
+  noisePercentage: 0.9
+
+- name: "Balanced Sizes"
+  totalStars: 4000
+  numberClusters: 10
+  clusterSizeMin: 400
+  clusterSizeMax: 400
+  noise: false
+  noisePercentage: 0
+
+- name: "Imbalanced Sizes"
+  totalStars: 4000
+  numberClusters: 10
+  clusterSizeMin: 150
+  clusterSizeMax: 700
+  noise: false
+  noisePercentage: 0
+
+- name: "Tiny Clusters"
+  totalStars: 4000
+  numberClusters: 80
+  clusterSizeMin: 30
+  clusterSizeMax: 60
+  noise: false
+  noisePercentage: 0
+
+- name: "Many Clusters + Noise"
+  totalStars: 5000
+  numberClusters: 40
+  clusterSizeMin: 50
+  clusterSizeMax: 100
+  noise: true
+  noisePercentage: 0.3
+
+- name: "Imbalanced + Noise"
+  totalStars: 5000
+  numberClusters: 20
+  clusterSizeMin: 100
+  clusterSizeMax: 500
+  noise: true
+  noisePercentage: 0.2
